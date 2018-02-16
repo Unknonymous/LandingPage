@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    display: block;
+    width: 512px;
+    margin: auto;
+}
+#wrapper{
+    width: 1024px;
+    margin: auto;
+    padding: 20px;
+    background-color: black;
+}
+h2{
+    color: red;
+}
+#para1{
+    color: white;
+}
+#para2{
+    color: mediumseagreen;
+}
+#credit{
+    color: red;
+    font-weight: bold;
+}
+#form1{
+    color: lightskyblue;
+}
